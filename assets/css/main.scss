@@ -41,3 +41,69 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Teal Mint Custom Theme - Kritika Bhandari */
+
+$teal-dark: #0f6e56;
+$teal-mid: #1d9e75;
+$teal-light: #5dcaa5;
+$teal-pale: #e1f5ee;
+$teal-bg: #f0fbf7;
+$teal-border: #9fe1cb;
+
+body {
+  background-color: $teal-bg;
+}
+
+a {
+  color: $teal-mid;
+  &:hover { color: $teal-dark; }
+}
+
+.masthead {
+  background-color: $teal-bg !important;
+  border-bottom: 0.5px solid $teal-border !important;
+}
+
+.masthead__menu-item a {
+  color: $teal-mid !important;
+  &:hover { color: $teal-dark !important; }
+}
+
+.author__avatar img {
+  border: 3px solid $teal-light !important;
+  border-radius: 50% !important;
+}
+
+.author__name {
+  color: $teal-dark !important;
+}
+
+.author__bio {
+  color: $teal-mid !important;
+}
+
+.author__urls a {
+  color: $teal-mid !important;
+  &:hover { color: $teal-dark !important; }
+}
+
+.page__content p {
+  color: #5f5e5a;
+  line-height: 1.8;
+}
+
+.page__title {
+  color: #04342c !important;
+}
+
+footer {
+  background-color: $teal-bg !important;
+  border-top: 0.5px solid $teal-pale !important;
+  color: #b4b2a9 !important;
+}
+
+.btn {
+  background-color: $teal-dark !important;
+  border-color: $teal-dark !important;
+  &:hover { background-color: $teal-mid !important; }
+}
