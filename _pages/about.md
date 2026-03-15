@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Kritika Bhandari"
 author_profile: true
 redirect_from: 
   - /about/
