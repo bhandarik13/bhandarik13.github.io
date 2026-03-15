@@ -16,7 +16,7 @@ author:
   pronouns         :
   bio              : "Public Health"
   location         : "Lalitpur, Nepal"
-  uri              : https://bhandarik13.github.io
+  uri              : 
   email            : "bhandarik277@gmail.com"
 
   # Academic websites
@@ -52,7 +52,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kritika-bhandari24"
+  linkedin         : "kritika-bhandari24"
   mastodon         :
   medium           :
   pinterest        :
@@ -102,7 +102,7 @@ staticman:
       options:
         format           : "iso8601"
 atom_feed:
-  hide                   : false
+  hide                   : true
   path                   :
 
 # SEO Related
