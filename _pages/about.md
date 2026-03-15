@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Kritika Bhandari"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,4 +9,5 @@ redirect_from:
 
 I study public health and am passionate about data-driven health solutions. Focused on improving community health outcomes through evidence-based research.
 
+Here is my academic CV:
 [Download my CV](/files/cv.pdf){: .btn .btn--primary}
