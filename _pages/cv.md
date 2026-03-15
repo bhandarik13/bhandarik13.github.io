@@ -6,7 +6,7 @@ author_profile: false
 
 <div style="max-width: 600px; margin: 40px auto; padding: 0 20px;">
 
-<h1 style="color: #04342c; font-size: 28px; font-weight: 500; margin-bottom: 24px;">CV</h1>
+<h1 style="color: #04342c; font-size: 28px; font-weight: 500; margin-bottom: 24px;">Academic CV</h1>
 
 <p style="color: #5f5e5a; font-size: 16px; line-height: 1.8; margin-bottom: 28px;">
 You can download my full CV here:
