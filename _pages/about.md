@@ -12,6 +12,6 @@ redirect_from:
   <h1 style="color: #04342c; margin-top: 16px; font-weight: 500; font-size: 32px;">Kritika Bhandari</h1>
   <p style="color: #1d9e75; font-size: 16px; margin-top: 4px; margin-bottom: 16px;">Kathmandu, Nepal</p>
   <p style="color: #5f5e5a; line-height: 1.9; font-size: 17px; max-width: 580px; margin: 0 auto;">
-  I study public health and am passionate about data-driven health solutions. Focused on improving community health outcomes through evidence-based research.
+  Dedicated to improving community health outcomes through advanced analytical research and evidence-based strategy.
   </p>
 </div>
