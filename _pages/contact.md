@@ -33,11 +33,11 @@ Feel free to reach out — I am always open to discussions on public health, res
 
 <div style="background: #fff; border: 0.5px solid #9fe1cb; border-radius: 10px; padding: 20px; margin-bottom: 14px; display: flex; align-items: center; gap: 16px;">
   <div style="width: 40px; height: 40px; border-radius: 50%; background: #e1f5ee; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-    <i class="fab fa-github" style="color: #0f6e56; font-size: 16px;"></i>
+    <i class="fas fa-phone" style="color: #0f6e56; font-size: 16px;"></i>
   </div>
   <div>
-    <div style="font-size: 12px; color: #888780; margin-bottom: 2px;">GitHub</div>
-    <a href="https://github.com/bhandarik13" style="font-size: 15px; color: #0f6e56; font-weight: 500; text-decoration: none;">bhandarik13</a>
+    <div style="font-size: 12px; color: #888780; margin-bottom: 2px;">Phone</div>
+    <div style="font-size: 15px; color: #0f6e56; font-weight: 500;">+977-9843208746</div>
   </div>
 </div>
 
