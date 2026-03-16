@@ -12,7 +12,7 @@ redirect_from:
   <h1 style="color: #04342c; margin-top: 16px; font-weight: 500; font-size: 32px;">Kritika Bhandari</h1>
   <p style="color: #1d9e75; font-size: 16px; margin-top: 4px; margin-bottom: 16px;">Public Health</p>
   <p style="color: #5f5e5a; line-height: 1.9; font-size: 17px; max-width: 580px; margin: 0 auto;">
- At the intersection of data science and public health. Dedicated to improving community health metrics through advanced analytical research and evidence-based strategy.
+  At the intersection of data science and public health. Dedicated to improving community health metrics through advanced analytical research and evidence-based strategy.
   </p>
 </div>
 
@@ -32,7 +32,7 @@ redirect_from:
     <div style="width: 32px; height: 32px; border-radius: 50%; background: #e1f5ee; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
       <i class="fas fa-file-alt" style="color: #0f6e56; font-size: 14px;"></i>
     </div>
-    <div style="font-size: 14px; font-weight: 500; color: #04342c; margin-bottom: 4px;">CV / Resume</div>
+    <div style="font-size: 14px; font-weight: 500; color: #04342c; margin-bottom: 4px;">Academic CV</div>
     <div style="font-size: 12px; color: #888780; line-height: 1.6;">Full academic and professional history.</div>
   </a>
 
