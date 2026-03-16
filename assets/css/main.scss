@@ -125,3 +125,24 @@ footer {
 .page__footer-copyright {
   display: none !important;
 }
+
+/* Full page teal background */
+html, body {
+  background-color: #f0fbf7 !important;
+  min-height: 100% !important;
+}
+
+.page {
+  background-color: #f0fbf7 !important;
+  min-height: 100vh !important;
+}
+
+.page__content {
+  background-color: #f0fbf7 !important;
+  min-height: 100vh !important;
+}
+
+#main {
+  background-color: #f0fbf7 !important;
+  min-height: 100vh !important;
+}
