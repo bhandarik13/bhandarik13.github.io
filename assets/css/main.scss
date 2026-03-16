@@ -107,3 +107,8 @@ footer {
   border-color: $teal-dark !important;
   &:hover { background-color: $teal-mid !important; }
 }
+
+/* Hide footer completely */
+.page__footer {
+  display: none !important;
+}
